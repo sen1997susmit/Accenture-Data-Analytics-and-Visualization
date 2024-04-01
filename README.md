@@ -99,4 +99,4 @@ Great work on your presentation.
 
 ## CHECK OUT THE SIMULATION HERE : [Job Simulation Link](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)
 
-## [Job Simulation Completion Certificate]()
+## [Job Simulation Completion Certificate](https://github.com/sen1997susmit/Accenture-Data-Analytics-and-Visualization/blob/main/Accenture%20North%20America.pdf)
